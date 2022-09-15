@@ -1,0 +1,8 @@
++-+ +-+ +-+ +-+ +-+ +-+
+|t| |a| |s| |t| |e| |4|
++-+ +-+ +-+ +-+ +-+ +-+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ It's time to create your own food. You can do it by using $touch uFavFood.          +
+# touch : creates an empty file.                                                      #       
++ > Tip : If you have a lot of favorite foods, you can use $touch uFavFood1 uFavFood2 +                                
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

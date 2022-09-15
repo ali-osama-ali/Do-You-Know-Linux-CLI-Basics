@@ -1,0 +1,9 @@
++-+ +-+ +-+ +-+ +-+ +-+
+|t| |a| |s| |t| |e| |7|
++-+ +-+ +-+ +-+ +-+ +-+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ What if I wanted to make a big box with other boxes inside? Well you can  +
++ do that by typing $ mkdir -p bigBox/box01/box02                           +         
+# mkdir -p : Creates subdirectories at the same time.                       #
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+

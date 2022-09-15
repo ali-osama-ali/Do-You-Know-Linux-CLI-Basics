@@ -1,0 +1,14 @@
++-+ +-+ +-+ +-+ +-+ +-+
+|t| |a| |s| |t| |e| |5|
++-+ +-+ +-+ +-+ +-+ +-+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ I don't like food without chips, that's why I always add it to my food               +
++ by using $ echo "Chips" > myFoodName                                                 +
+# echo command displays a line of text.                                                #
++ But beacause I want to display it inside my food I used the redirection operator >   +
+# > : It's a redirection operator which redirects our output to the file.              #        
++ > Note : > : It will override what’s in the file. To avoid that use >>               +
+# >> :It's a redirection operator which appends to a file without deleting its content +
++ Try to add chips and then salad to your food.                                        +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+

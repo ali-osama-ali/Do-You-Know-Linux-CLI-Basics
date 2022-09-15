@@ -1,0 +1,12 @@
++-+ +-+ +-+ +-+ +-+ +-+
+|t| |a| |s| |t| |e| |3|
++-+ +-+ +-+ +-+ +-+ +-+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Welcome to the first shelf. I want to tell you about a problem I encountered     +
++ here, which was that shelf contains a lot of food that I don't like, so I wanted +
++ to get rid of all this food and here I tasted another taste and it was $ rm food + 
+# rm : removes a file.                                                             #       
++ You should remove all the food now beacuse you will create your own soon.        +
++ > Tip : you can use $ rm food1 food2 food3                                       +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+

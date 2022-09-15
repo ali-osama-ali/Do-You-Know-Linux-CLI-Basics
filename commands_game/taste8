@@ -1,0 +1,17 @@
++-+ +-+ +-+ +-+ +-+ +-+
+|t| |a| |s| |t| |e| |8|
++-+ +-+ +-+ +-+ +-+ +-+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Well for some reason I needed to throw out these boxes, so I typed         +
++ $ rmdir bigBox                                                             +
+# rmdir : Removes a directory                                                #
++ OMG, I saw an error saying "Directory not empty". I didn't know what to    +
++ do, so I tried to type $ rm, but I saw a different error saying            +
++ "Is a directory". I wondered if there was anything that would help me      +
++ solve this problem until I fund the magic solution, which was $ man rm     +
+# man : It will show you the manual of the command name                      +
++ the man page told me that                                                  +
+# the flag -r : removes directories and their contents recursively.          #
++ Now I can throw out thess boxes by typing $ rm -r bigBox                   +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+

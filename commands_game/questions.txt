@@ -1,0 +1,5 @@
+How to list the content of the current folder?
+I want to go to the folder '/home/user/test' and then create a file named 'test.txt' , what is the commands should I use ? 
+how to make the following subfolders in one step 'test1/test2/test3/test4' ?
+How to remove a file named 'file.txt' ?
+How to make a folder ?
